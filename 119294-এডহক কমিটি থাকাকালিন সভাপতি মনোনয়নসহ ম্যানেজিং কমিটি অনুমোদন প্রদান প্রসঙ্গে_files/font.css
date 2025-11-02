@@ -1,0 +1,5 @@
+@font-face {
+   font-family: my_kalpurush;
+   src: url(kalpurush.woff);
+}
+body{ font-family:my_kalpurush;}
